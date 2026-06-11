@@ -4,3 +4,4 @@ __pycache__/
 *.pkl
 *.joblib
 .DS_Store
+data/creditcard.csv
